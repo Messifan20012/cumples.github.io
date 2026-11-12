@@ -1,0 +1,11 @@
+PROYECTO: TULIPANES ROSAS (SIN MUSICA)
+
+Contenido:
+- index.html: página con tres tulipanes dibujados manualmente mediante SVG y un cuadro de mensaje editable.
+- style.css: diseño, animaciones y adaptación a celulares, tablets y computadoras.
+
+Para abrir:
+1. Extrae el archivo ZIP.
+2. Abre index.html con Chrome, Edge o Firefox.
+
+No se necesita archivo de música ni imágenes externas.
